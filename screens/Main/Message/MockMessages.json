@@ -1,0 +1,50 @@
+[
+    {
+        "id" : "12312321",
+        "message" : "Hi, i'm your santa, may i know where is your exact location?",
+        "created_at" : "13:15",
+        "status" : "0",
+        "user" :{
+            "id": "232423",
+            "first_name" : "Ricky",
+            "last_name" : "Pranaya",
+            "profile_image" : null
+        }
+    },
+    {
+        "id" : "12312ewf321",
+        "message" : "Thanks for helping me! i'm giving you a tips",
+        "created_at" : "12:00",
+        "status" : "0",
+        "user" :{
+            "id": "0",
+            "first_name" : "Steviani",
+            "last_name" : "Angeline Tandika Septiani",
+            "profile_image" : null
+        }
+    },
+    {
+        "id" : "123134r34r321",
+        "message" : "Thanks for helping me! i'm giving you a tips",
+        "created_at" : "12:00",
+        "status" : "0",
+        "user" :{
+            "id": "232dwe423",
+            "first_name" : "Vincent",
+            "last_name" : null ,
+            "profile_image" : null
+        }
+    },
+    {
+        "id" : "0",
+        "message" : "Ok bro! thanks.",
+        "created_at" : "12:00",
+        "status" : "0",
+        "user" :{
+            "id": "0",
+            "first_name" : "Vincent",
+            "last_name" : null ,
+            "profile_image" : null
+        }
+    }
+]
